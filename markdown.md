@@ -1,4 +1,4 @@
-# # markdown 문법
+# markdown 문법
 
 **1. 헤딩(Heading) **
 

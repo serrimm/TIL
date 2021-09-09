@@ -14,7 +14,7 @@
 **3. 코드 블럭(Code Block)**
 
 - 사용하는 프로그램에 따라 특정 언어 명시하면 구문 강조
-- "`"을 사용 3개-code block, 1개-inline clde block
+- `을 사용 3개-code block, 1개-inline clde block
 
 **4. 링크(link)**
 
